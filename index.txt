@@ -1,1 +1,3 @@
 git ten yazdım
+
+github dan değişiklik yaptım
